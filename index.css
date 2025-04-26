@@ -1,0 +1,20 @@
+#A{
+    font-weight: bold;
+    color: brown;
+}
+#B{
+    display: flex ;
+    justify-content:center;
+    align-items: center;
+    
+}
+.C{
+    background-color: bisque;
+    width: 23%;
+    padding: 5px;
+    margin: 10px;
+}
+.D{
+    font-weight: 900;
+    color: blue;
+}
